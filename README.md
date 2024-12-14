@@ -1,10 +1,10 @@
 
 
-# Nombre del proyecto
+# Sistema digestivo: Disfagia
 
 ## Estudiantes
-Nombres completos (en primer lugar el trabajo más, en último el que va a reprobar)
-Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana, Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: correo1@tectijuana.edu.mx; correo2@tectijuana.edu.mx correo3@tectijuana.edu.mx
+Cabrera Perez Angelica Xileme, Lopez Garrido Amy Stephany, Santillan Cardenas Ana Carolina.
+Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana, Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: l21212144@tectijuana.edu.mx; l21212164@tectijuana.edu.mx l21212181@tectijuana.edu.mx
 
 ## Asignaturas o departmento donde se puede usar la Actividad
 Modelado de Sistemas Fisiológicos de Ingeniería Biomédica
@@ -18,12 +18,9 @@ La asignatura de Modelado de Sistemas Fisiológicos forma parte del plan de estu
 Diseñar un gemelo digital de un sistema fisiológico que permita identificar las diferencias entre un paciente afectado por una enfermedad (caso) y un individuo saludable (control) para desarrollar un protocolo de tratamiento mediante un sistema de control en lazo cerrado.
 
 ## Descripción detallada del sistema
-...
-
+El sistema digestivo, puede ser representado en un modelo que simule los procesos que ocurren en el tracto digestivo. La descripción del comportamiento del sistema mediante un circuito eléctrico RLC, se representa por la resistencia del esófago que se modela mediante una resistencia eléctrica R1, la inercia muscular del tracto digestivo, en donde, la inercia representa la resistencia al cambio rápido del flujo o movimiento del alimento, modelado con un inductor L, la compliancia gástrica es la capacidad del estómago para expandirse y almacenar los alimentos, se modela con un capacitor C1, la resistencia de la motilidad intestinal, se refiere a la representación de la resistencia al paso de los alimentos al intestino, se modela con R2 para representar la dificultad para moverlos, la compliancia intestinal refleja la capacidad de los intestinos para expandirse y almacenar el contenido, representado con C2.
 ## Referencias principales
-[1] H. Motulsky, Intuitive biostatistics: a nonmathematical guide to statistical thinking. 4th ed. Oxford, New York, USA: Oxford University Press, 2014.
+[1] E. B. McCarty and T. N. Chao, “Dysphagia and Swallowing Disorders,” Medical Clinics of North America, vol. 105, no. 5. 2021. doi: 10.1016/j.mcna.2021.05.013.
+[2] M. Guzmán, “Abordaje del paciente con disfagia,” Acta Gastroenterología Latinoamericana, vol. 50, 2020.
 
-[2] P. A. Valle, L. N. Coria, C. Plata & Y. Salazar, “CAR-T cell therapy for the treatment of ALL: eradication conditions and in silico experimentation,” Hemato, vol. 2, issue 3, pp. 441-462, Jul 2021. https://doi.org/10.3390/hemato2030028 
-
-[3] MathWorks. (n.d.). Sistemas Dinámicos [Online]. Available: https://www.mathworks.com/discovery/dynamic-systems.html
 
