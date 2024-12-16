@@ -1,0 +1,19 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: CITATION
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Angelica Xileme
+    family-names: Cabrera Perez
+    email: l21212144@tectijuana.edu.mx
+  - given-names: Amy Stephany
+    family-names: Lopez Garrido
+    email: l21212164@tectijuana.edu.mx
+  - given-names: Ana Carolina
+    family-names: Santillan Cardenas
+    email: l21212181@tectijuana.edu.mx
